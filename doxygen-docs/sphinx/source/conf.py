@@ -56,4 +56,4 @@ html_static_path = ['_static']
 
 import subprocess
 subprocess.call('cd ../../doxygen ; doxygen', shell=True)
-html_extra_path = ['../../doxygen/html']
+html_extra_path = ['../../doxygen/build/html']
