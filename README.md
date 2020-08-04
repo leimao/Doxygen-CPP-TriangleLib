@@ -74,9 +74,9 @@ Please check the [`README`](docs/README.md) in [`docs`](docs/) for details.
 
 ## Publish Documentations
 
-Go to [Read the Docs](`https://readthedocs.org/dashboard/import/manual/`) and follow the instructions to publish the documentations. The latest version of the documentation of this repo could be found on [TriangleLib's Documentation](https://doxygen-c-trianglelib.readthedocs.io/). Use [GitHub tags](https://github.com/leimao/Sphinx-Python-TriangleLib/tags) for version control on Read the Docs.
+Go to [Read the Docs](`https://readthedocs.org/dashboard/import/manual/`) and follow the instructions to publish the documentations. The latest version of the documentation of this repo could be found on [TriangleLib's Documentation](https://doxygen-c-trianglelib.readthedocs.io/). Use [GitHub tags](https://github.com/leimao/Doxygen-CPP-TriangleLib/tags) for version control on Read the Docs.
 
 ## References
 
 * [Python Documentation Using Sphinx](https://leimao.github.io/blog/Python-Documentation-Using-Sphinx/)
-* [Python Triangle library](https://github.com/leimao/Sphinx-Python-TriangleLib)
+* [Python Triangle Library](https://github.com/leimao/Sphinx-Python-TriangleLib)
