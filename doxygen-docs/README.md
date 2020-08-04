@@ -9,7 +9,7 @@
 ### Doxygen Quick Start
 
 ```
-$ cd doxygen-docs/doxygen/
+$ cd docs/doxygen/
 $ doxygen
 ```
 
@@ -19,7 +19,7 @@ Then modify `Doxyfile` accordingly.
 ### Create Dummy Sphinx Project
 
 ```
-$ cd doxygen-docs/
+$ cd docs/
 $ mkdir -p sphinx
 $ cd sphinx/
 $ sphinx-quickstart 
@@ -48,14 +48,14 @@ For a list of supported codes, see
 https://www.sphinx-doc.org/en/master/usage/configuration.html#confval-language.
 > Project language [en]: 
 
-Creating file /home/leimao/GitHub/Sphinx-CPP-TriangleLib/doxygen-docs/sphinx/source/conf.py.
-Creating file /home/leimao/GitHub/Sphinx-CPP-TriangleLib/doxygen-docs/sphinx/source/index.rst.
-Creating file /home/leimao/GitHub/Sphinx-CPP-TriangleLib/doxygen-docs/sphinx/Makefile.
-Creating file /home/leimao/GitHub/Sphinx-CPP-TriangleLib/doxygen-docs/sphinx/make.bat.
+Creating file /home/leimao/GitHub/Sphinx-CPP-TriangleLib/docs/sphinx/source/conf.py.
+Creating file /home/leimao/GitHub/Sphinx-CPP-TriangleLib/docs/sphinx/source/index.rst.
+Creating file /home/leimao/GitHub/Sphinx-CPP-TriangleLib/docs/sphinx/Makefile.
+Creating file /home/leimao/GitHub/Sphinx-CPP-TriangleLib/docs/sphinx/make.bat.
 
 Finished: An initial directory structure has been created.
 
-You should now populate your master file /home/leimao/GitHub/Sphinx-CPP-TriangleLib/doxygen-docs/sphinx/source/index.rst and create other documentation
+You should now populate your master file /home/leimao/GitHub/Sphinx-CPP-TriangleLib/docs/sphinx/source/index.rst and create other documentation
 source files. Use the Makefile to build the docs, like so:
    make builder
 where "builder" is one of the supported builders, e.g. html, latex or linkcheck.
@@ -67,7 +67,7 @@ Then modify `sphinx/source/conf.py` accordingly.
 ### Generate Doxygen Documentations in Sphinx Directories
 
 ```
-$ cd doxygen-docs/sphinx
+$ cd docs/sphinx
 $ make html
 ```
 

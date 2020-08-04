@@ -36,7 +36,7 @@ $ make -j
 
 ## Build Documentations
 
-Please check the [`README`](doxygen-docs/README.md) in [`doxygen-docs`](doxygen-docs/) for details.
+Please check the [`README`](docs/README.md) in [`docs`](docs/) for details.
 
 ## Publish Documentations
 
